@@ -1,0 +1,45 @@
+.foot{
+  padding-top: 5%;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-bottom: 2%;
+  background-color: rgb(43, 41, 41);
+  color: rgb(216, 225, 233);
+  font-weight: lighter;
+}
+ul{
+  list-style-type:none;
+}
+.line{
+  border-top: 1px solid rgb(36, 32, 32);
+  width: 100%;
+}
+.cpyrts{
+  text-align: center;
+  padding-top:15px;
+}
+h5{ 
+  padding-bottom: 10px;
+}
+.form-group
+{
+  padding-left: 35px;
+}
+li{
+  padding-bottom: 4px;
+}
+.flwus{
+  padding-top: 6px;
+}
+.button5 {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  display:inline;
+  font-size: 25px;
+  left: 0px;
+  height: 38px;
+  border-color: gold;
+}
+input[type=text]{
+  width:100%;
+}
